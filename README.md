@@ -1,4 +1,4 @@
-Music Store Database Readme
+#Music Store Database Readme
 
 This database represents a music store's data, providing information about customers, invoices, artists, tracks, genres, and more. 
 It is designed to help music store administrators analyze and manage various aspects of their business.
